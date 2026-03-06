@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 This is new project
 y1 changes
+=======
+This is new project...x1 changes
+>>>>>>> Stashed changes
